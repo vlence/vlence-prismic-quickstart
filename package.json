@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-sdk",
+  "name": "vlence-prismic-quickstart",
   "version": "2.1.0",
   "private": true,
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/prismicio/nodejs-sdk.git"
+    "url": "git@github.com:vlence/vlence-prismic-quickstart.git"
   },
   "devDependencies": {
     "babel-eslint": "~8.0.1",
